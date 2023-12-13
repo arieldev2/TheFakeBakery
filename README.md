@@ -9,11 +9,46 @@
   <li>2 Categories: Donut and milk bread.</li>
 </ul> 
 
-<h2>Installation</h2>
-<p>npm install</p>
+```bash
+{
+    "breads": [
+      {
+        "id": 1,
+        "name": "Strawberry donut",
+        "description": "Donut with strawberry glaze.",
+        "price": 1.00,
+        "category": "donut",
+        "image": "http://localhost:3000/images/donut1.png"
+      },
+      {
+        "id": 2,
+        "name": "Strawberry yoghurt donut",
+        "description": "Donut with strawberry yoghurt glaze.",
+        "price": 1.00,
+        "category": "donut",
+        "image": "http://localhost:3000/images/donut2.png"
+      }]
+}
+```
 
+<h2>Installation</h2>
+```bash
+npm install
+```
 <h2>Use</h2>
-<p>npx json-server --watch db.json</p>
+```bash
+npx json-server --watch db.json
+```
+
+<h3>The server is running in <a href="http://localhost:3000/breads">http://localhost:3000/breads</a></h3>
+
+<h2>Paginate</h2>
+
+```bash
+GET /breads?_page=5
+GET /breads?_page=5&_limit=5
+```
+
 
 
 
