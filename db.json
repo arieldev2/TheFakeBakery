@@ -1,0 +1,325 @@
+{
+    "breads": [
+      {
+        "id": 1,
+        "name": "Strawberry donut",
+        "description": "Donut with strawberry glaze.",
+        "price": 1.00,
+        "category": "donut",
+        "image": "http://localhost:3000/images/donut1.png"
+      },
+      {
+        "id": 2,
+        "name": "Strawberry yoghurt donut",
+        "description": "Donut with strawberry yoghurt glaze.",
+        "price": 1.00,
+        "category": "donut",
+        "image": "http://localhost:3000/images/donut2.png"
+      },
+      {
+        "id": 3,
+        "name": "Blueberry donut",
+        "description": "Donut with blueberry glaze.",
+        "price": 1.00,
+        "category": "donut",
+        "image": "http://localhost:3000/images/donut3.png"
+      },
+      {
+        "id": 4,
+        "name": "Blueberry yoghurt donut",
+        "description": "Donut with blueberry yoghurt glaze.",
+        "price": 1.00,
+        "category": "donut",
+        "image": "http://localhost:3000/images/donut4.png"
+      },
+      {
+        "id": 5,
+        "name": "Special flavor donut",
+        "description": "Donut with special flavor glaze.",
+        "price": 1.00,
+        "category": "donut",
+        "image": "http://localhost:3000/images/donut5.png"
+      },
+      {
+        "id": 6,
+        "name": "Green apple donut",
+        "description": "Donut with green apple glaze.",
+        "price": 1.00,
+        "category": "donut",
+        "image": "http://localhost:3000/images/donut6.png"
+      },
+      {
+        "id": 7,
+        "name": "Pear donut",
+        "description": "Donut with pear glaze.",
+        "price": 1.00,
+        "category": "donut",
+        "image": "http://localhost:3000/images/donut7.png"
+      },
+      {
+        "id": 8,
+        "name": "Vanilla donut",
+        "description": "Donut with vanilla glaze.",
+        "price": 1.00,
+        "category": "donut",
+        "image": "http://localhost:3000/images/donut8.png"
+      },
+      {
+        "id": 9,
+        "name": "Cherry donut",
+        "description": "Donut with cherry glaze.",
+        "price": 1.00,
+        "category": "donut",
+        "image": "http://localhost:3000/images/donut9.png"
+      },
+      {
+        "id": 10,
+        "name": "Cherry/blueberry donut",
+        "description": "Donut with cherry/blueberry glaze.",
+        "price": 1.00,
+        "category": "donut",
+        "image": "http://localhost:3000/images/donut10.png"
+      },
+      {
+        "id": 11,
+        "name": "Creamy strawberry donut",
+        "description": "Donut with creamy strawberry glaze.",
+        "price": 1.00,
+        "category": "donut",
+        "image": "http://localhost:3000/images/donut11.png"
+      },
+      {
+        "id": 12,
+        "name": "Creamy blueberry donut",
+        "description": "Donut with creamy blueberry glaze.",
+        "price": 1.00,
+        "category": "donut",
+        "image": "http://localhost:3000/images/donut12.png"
+      },
+      {
+        "id": 13,
+        "name": "Special creamy blueberry donut",
+        "description": "Donut with special creamy blueberry glaze.",
+        "price": 1.00,
+        "category": "donut",
+        "image": "http://localhost:3000/images/donut13.png"
+      },
+      {
+        "id": 14,
+        "name": "Special creamy donut",
+        "description": "Donut with special creamy glaze.",
+        "price": 1.00,
+        "category": "donut",
+        "image": "http://localhost:3000/images/donut14.png"
+      },
+      {
+        "id": 15,
+        "name": "Creamy pear donut",
+        "description": "Donut with creamy pear glaze.",
+        "price": 1.00,
+        "category": "donut",
+        "image": "http://localhost:3000/images/donut15.png"
+      },
+      {
+        "id": 16,
+        "name": "Creamy green apple donut",
+        "description": "Donut with creamy green apple glaze.",
+        "price": 1.00,
+        "category": "donut",
+        "image": "http://localhost:3000/images/donut16.png"
+      },
+      {
+        "id": 17,
+        "name": "Special creamy green apple donut",
+        "description": "Donut with special creamy green apple glaze.",
+        "price": 1.00,
+        "category": "donut",
+        "image": "http://localhost:3000/images/donut17.png"
+      },
+      {
+        "id": 18,
+        "name": "Creamy vanilla donut",
+        "description": "Donut with creamy vanilla glaze.",
+        "price": 1.00,
+        "category": "donut",
+        "image": "http://localhost:3000/images/donut18.png"
+      },
+      {
+        "id": 19,
+        "name": "Creamy cherry donut",
+        "description": "Donut with creamy cherry glaze.",
+        "price": 1.00,
+        "category": "donut",
+        "image": "http://localhost:3000/images/donut19.png"
+      },
+      {
+        "id": 20,
+        "name": "Special creamy cherry donut",
+        "description": "Donut with special creamy cherry glaze.",
+        "price": 1.00,
+        "category": "donut",
+        "image": "http://localhost:3000/images/donut20.png"
+      },
+      {
+        "id": 21,
+        "name": "Vanilla milk bread",
+        "description": "Milk bread with vanilla glaze.",
+        "price": 3.00,
+        "category": "milk bread",
+        "image": "http://localhost:3000/images/milkbread1.png"
+      },
+      {
+        "id": 22,
+        "name": "Banana milk bread",
+        "description": "Milk bread with banana glaze.",
+        "price": 3.00,
+        "category": "milk bread",
+        "image": "http://localhost:3000/images/milkbread2.png"
+      },
+      {
+        "id": 23,
+        "name": "Peach milk bread",
+        "description": "Milk bread with peach glaze.",
+        "price": 3.00,
+        "category": "milk bread",
+        "image": "http://localhost:3000/images/milkbread3.png"
+      },
+      {
+        "id": 24,
+        "name": "Strawberry milk bread",
+        "description": "Milk bread with strawberry glaze.",
+        "price": 3.00,
+        "category": "milk bread",
+        "image": "http://localhost:3000/images/milkbread4.png"
+      },
+      {
+        "id": 25,
+        "name": "Cherry/blueberry milk bread",
+        "description": "Milk bread with cherry/blueberry glaze.",
+        "price": 3.00,
+        "category": "milk bread",
+        "image": "http://localhost:3000/images/milkbread5.png"
+      },
+      {
+        "id": 26,
+        "name": "Blueberry milk bread",
+        "description": "Milk bread with blueberry glaze.",
+        "price": 3.00,
+        "category": "milk bread",
+        "image": "http://localhost:3000/images/milkbread6.png"
+      },
+      {
+        "id": 27,
+        "name": "Special blueberry milk bread",
+        "description": "Milk bread with special blueberry glaze.",
+        "price": 3.00,
+        "category": "milk bread",
+        "image": "http://localhost:3000/images/milkbread7.png"
+      },
+      {
+        "id": 28,
+        "name": "Special blue milk bread",
+        "description": "Milk bread with special blue glaze.",
+        "price": 3.00,
+        "category": "milk bread",
+        "image": "http://localhost:3000/images/milkbread8.png"
+      },
+      {
+        "id": 29,
+        "name": "Pear milk bread",
+        "description": "Milk bread with pear glaze.",
+        "price": 3.00,
+        "category": "milk bread",
+        "image": "http://localhost:3000/images/milkbread9.png"
+      },
+      {
+        "id": 30,
+        "name": "Green apple milk bread",
+        "description": "Milk bread with green apple glaze.",
+        "price": 3.00,
+        "category": "milk bread",
+        "image": "http://localhost:3000/images/milkbread10.png"
+      },
+      {
+        "id": 31,
+        "name": "Creamy strawberry milk bread",
+        "description": "Milk bread with creamy strawberry glaze.",
+        "price": 3.00,
+        "category": "milk bread",
+        "image": "http://localhost:3000/images/milkbread11.png"
+      },
+      {
+        "id": 32,
+        "name": "Creamy cherry milk bread",
+        "description": "Milk bread with creamy cherry glaze.",
+        "price": 3.00,
+        "category": "milk bread",
+        "image": "http://localhost:3000/images/milkbread12.png"
+      },
+      {
+        "id": 33,
+        "name": "Creamy blueberry milk bread",
+        "description": "Milk bread with creamy blueberry glaze.",
+        "price": 3.00,
+        "category": "milk bread",
+        "image": "http://localhost:3000/images/milkbread13.png"
+      },
+      {
+        "id": 34,
+        "name": "Special creamy blueberry milk bread",
+        "description": "Milk bread with special creamy blueberry glaze.",
+        "price": 3.00,
+        "category": "milk bread",
+        "image": "http://localhost:3000/images/milkbread14.png"
+      },
+      {
+        "id": 35,
+        "name": "Secret creamy blue milk bread",
+        "description": "Milk bread with secret creamy blue glaze.",
+        "price": 3.00,
+        "category": "milk bread",
+        "image": "http://localhost:3000/images/milkbread15.png"
+      },
+      {
+        "id": 36,
+        "name": "Creamy pear milk bread",
+        "description": "Milk bread with creamy pear glaze.",
+        "price": 3.00,
+        "category": "milk bread",
+        "image": "http://localhost:3000/images/milkbread16.png"
+      },
+      {
+        "id": 37,
+        "name": "Creamy green apple milk bread",
+        "description": "Milk bread with creamy green apple glaze.",
+        "price": 3.00,
+        "category": "milk bread",
+        "image": "http://localhost:3000/images/milkbread17.png"
+      },
+      {
+        "id": 38,
+        "name": "Creamy banana milk bread",
+        "description": "Milk bread with creamy banana glaze.",
+        "price": 3.00,
+        "category": "milk bread",
+        "image": "http://localhost:3000/images/milkbread18.png"
+      },
+      {
+        "id": 39,
+        "name": "Creamy vanilla milk bread",
+        "description": "Milk bread with creamy vanilla glaze.",
+        "price": 3.00,
+        "category": "milk bread",
+        "image": "http://localhost:3000/images/milkbread19.png"
+      },
+      {
+        "id": 40,
+        "name": "Creamy cherry/strawberry milk bread",
+        "description": "Milk bread with creamy cherry/strawberry glaze.",
+        "price": 3.00,
+        "category": "milk bread",
+        "image": "http://localhost:3000/images/milkbread20.png"
+      }
+      
+    ]
+  } 
