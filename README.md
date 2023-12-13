@@ -32,12 +32,14 @@
 ```
 
 <h2>Installation</h2>
+
 ```bash
-npm install
+  npm install
 ```
 <h2>Use</h2>
+
 ```bash
-npx json-server --watch db.json
+  npx json-server --watch db.json
 ```
 
 <h3>The server is running in <a href="http://localhost:3000/breads">http://localhost:3000/breads</a></h3>
