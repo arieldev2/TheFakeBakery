@@ -42,7 +42,7 @@ npm install
 npx json-server --watch db.json
 ```
 
-<h3>The server is running in <a href="http://localhost:3000/breads">http://localhost:3000/breads</a></h3>
+<h3>The server is running on <a href="http://localhost:3000/breads">http://localhost:3000/breads</a></h3>
 
 <h2>Paginate</h2>
 
