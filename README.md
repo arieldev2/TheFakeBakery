@@ -5,7 +5,7 @@
 
 <h2>Data</h2>
 <ul>
-  <li>40 different breads with images./li>
+  <li>40 different breads with images.</li>
   <li>2 Categories: Donut and milk bread.</li>
 </ul> 
 
