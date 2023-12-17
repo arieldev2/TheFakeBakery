@@ -32,6 +32,7 @@
 ```
 
 <h2>Installation</h2>
+<p>Clone the repository and then run "npm install" inside the folder.</p>
 
 ```bash
 npm install
