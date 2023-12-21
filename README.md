@@ -10,25 +10,25 @@
 </ul> 
 
 ```bash
-{
-    "breads": [
-      {
-        "id": 1,
-        "name": "Strawberry donut",
-        "description": "Donut with strawberry glaze.",
-        "price": 1.00,
-        "category": "donut",
-        "image": "http://localhost:3000/images/donut1.png"
-      },
-      {
-        "id": 2,
-        "name": "Strawberry yoghurt donut",
-        "description": "Donut with strawberry yoghurt glaze.",
-        "price": 1.00,
-        "category": "donut",
-        "image": "http://localhost:3000/images/donut2.png"
-      }]
-}
+[
+  {
+    "id": 1,
+    "name": "Strawberry donut",
+    "description": "Donut with strawberry glaze.",
+    "price": 1.00,
+    "category": "donut",
+    "image": "http://localhost:3000/images/donut1.png"
+  },
+  {
+    "id": 2,
+    "name": "Strawberry yoghurt donut",
+    "description": "Donut with strawberry yoghurt glaze.",
+    "price": 1.00,
+    "category": "donut",
+    "image": "http://localhost:3000/images/donut2.png"
+  }
+]
+
 ```
 
 <h2>Installation</h2>
